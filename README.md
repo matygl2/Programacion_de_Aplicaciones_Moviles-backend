@@ -17,15 +17,6 @@ API REST hecha con Express, Prisma y SQLite. Gestiona el registro de personas (e
 npm install
 ```
 
-## Configuración
-
-Crear un archivo `.env` en la raíz del proyecto:
-
-```
-DATABASE_URL="file:./dev.db"
-PORT=3000
-```
-
 ## Preparar la base de datos
 
 ```bash
